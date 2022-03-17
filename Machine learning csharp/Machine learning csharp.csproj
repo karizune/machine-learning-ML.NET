@@ -6,4 +6,8 @@
     <RootNamespace>Machine_learning_csharp</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Machine learning csharpML.Model\Machine learning csharpML.Model.csproj" />
+  </ItemGroup>
+
 </Project>
