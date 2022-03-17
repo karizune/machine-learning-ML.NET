@@ -27,7 +27,7 @@ namespace Machine_learning_csharpML.Model
             MLContext mlContext = new MLContext();
 
             // Load model & create prediction engine
-            string modelPath = @"C:\Users\luang\AppData\Local\Temp\MLVSTools\Machine learning csharpML\Machine learning csharpML.Model\MLModel.zip";
+            string modelPath = @"C:\Users\luanc\Desktop\Faculdade\Humberto\Machine Learning com ML.NET\machine-learning-ML.NET\Machine learning csharp\bin\Debug\net5.0\MLModel.zip";
             ITransformer mlModel = mlContext.Model.Load(modelPath, out var modelInputSchema);
             var predEngine = mlContext.Model.CreatePredictionEngine<ModelInput, ModelOutput>(mlModel);
 

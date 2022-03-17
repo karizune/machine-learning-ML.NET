@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\luang\\source\\repos\\Machine learning csharp\\Machine learning csharpML.ConsoleApp\\Machine learning csharpML.ConsoleApp.csproj": {}
+    "C:\\Users\\luanc\\Desktop\\Faculdade\\Humberto\\Machine Learning com ML.NET\\machine-learning-ML.NET\\Machine learning csharpML.ConsoleApp\\Machine learning csharpML.ConsoleApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\luang\\source\\repos\\Machine learning csharp\\Machine learning csharpML.ConsoleApp\\Machine learning csharpML.ConsoleApp.csproj": {
+    "C:\\Users\\luanc\\Desktop\\Faculdade\\Humberto\\Machine Learning com ML.NET\\machine-learning-ML.NET\\Machine learning csharpML.ConsoleApp\\Machine learning csharpML.ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luang\\source\\repos\\Machine learning csharp\\Machine learning csharpML.ConsoleApp\\Machine learning csharpML.ConsoleApp.csproj",
+        "projectUniqueName": "C:\\Users\\luanc\\Desktop\\Faculdade\\Humberto\\Machine Learning com ML.NET\\machine-learning-ML.NET\\Machine learning csharpML.ConsoleApp\\Machine learning csharpML.ConsoleApp.csproj",
         "projectName": "Machine learning csharpML.ConsoleApp",
-        "projectPath": "C:\\Users\\luang\\source\\repos\\Machine learning csharp\\Machine learning csharpML.ConsoleApp\\Machine learning csharpML.ConsoleApp.csproj",
-        "packagesPath": "C:\\Users\\luang\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luang\\source\\repos\\Machine learning csharp\\Machine learning csharpML.ConsoleApp\\obj\\",
+        "projectPath": "C:\\Users\\luanc\\Desktop\\Faculdade\\Humberto\\Machine Learning com ML.NET\\machine-learning-ML.NET\\Machine learning csharpML.ConsoleApp\\Machine learning csharpML.ConsoleApp.csproj",
+        "packagesPath": "C:\\Users\\luanc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\luanc\\Desktop\\Faculdade\\Humberto\\Machine Learning com ML.NET\\machine-learning-ML.NET\\Machine learning csharpML.ConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\luang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\luanc\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\luang\\source\\repos\\Machine learning csharp\\Machine learning csharpML.Model\\Machine learning csharpML.Model.csproj": {
-                "projectPath": "C:\\Users\\luang\\source\\repos\\Machine learning csharp\\Machine learning csharpML.Model\\Machine learning csharpML.Model.csproj"
+              "C:\\Users\\luanc\\Desktop\\Faculdade\\Humberto\\Machine Learning com ML.NET\\machine-learning-ML.NET\\Machine learning csharpML.Model\\Machine learning csharpML.Model.csproj": {
+                "projectPath": "C:\\Users\\luanc\\Desktop\\Faculdade\\Humberto\\Machine Learning com ML.NET\\machine-learning-ML.NET\\Machine learning csharpML.Model\\Machine learning csharpML.Model.csproj"
               }
             }
           }
@@ -72,17 +72,17 @@
         }
       }
     },
-    "C:\\Users\\luang\\source\\repos\\Machine learning csharp\\Machine learning csharpML.Model\\Machine learning csharpML.Model.csproj": {
+    "C:\\Users\\luanc\\Desktop\\Faculdade\\Humberto\\Machine Learning com ML.NET\\machine-learning-ML.NET\\Machine learning csharpML.Model\\Machine learning csharpML.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luang\\source\\repos\\Machine learning csharp\\Machine learning csharpML.Model\\Machine learning csharpML.Model.csproj",
+        "projectUniqueName": "C:\\Users\\luanc\\Desktop\\Faculdade\\Humberto\\Machine Learning com ML.NET\\machine-learning-ML.NET\\Machine learning csharpML.Model\\Machine learning csharpML.Model.csproj",
         "projectName": "Machine learning csharpML.Model",
-        "projectPath": "C:\\Users\\luang\\source\\repos\\Machine learning csharp\\Machine learning csharpML.Model\\Machine learning csharpML.Model.csproj",
-        "packagesPath": "C:\\Users\\luang\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luang\\source\\repos\\Machine learning csharp\\Machine learning csharpML.Model\\obj\\",
+        "projectPath": "C:\\Users\\luanc\\Desktop\\Faculdade\\Humberto\\Machine Learning com ML.NET\\machine-learning-ML.NET\\Machine learning csharpML.Model\\Machine learning csharpML.Model.csproj",
+        "packagesPath": "C:\\Users\\luanc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\luanc\\Desktop\\Faculdade\\Humberto\\Machine Learning com ML.NET\\machine-learning-ML.NET\\Machine learning csharpML.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\luang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\luanc\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
