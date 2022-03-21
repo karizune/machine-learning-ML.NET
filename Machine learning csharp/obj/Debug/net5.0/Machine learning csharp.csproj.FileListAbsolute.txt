@@ -37,3 +37,42 @@ C:\Users\luanc\Desktop\Faculdade\Humberto\Machine Learning com ML.NET\machine-le
 C:\Users\luanc\Desktop\Faculdade\Humberto\Machine Learning com ML.NET\machine-learning-ML.NET\Machine learning csharp\obj\Debug\net5.0\ref\Machine learning csharp.dll
 C:\Users\luanc\Desktop\Faculdade\Humberto\Machine Learning com ML.NET\machine-learning-ML.NET\Machine learning csharp\obj\Debug\net5.0\Machine learning csharp.pdb
 C:\Users\luanc\Desktop\Faculdade\Humberto\Machine Learning com ML.NET\machine-learning-ML.NET\Machine learning csharp\obj\Debug\net5.0\Machine learning csharp.genruntimeconfig.cache
+E:\luang\Desktop\Nova pasta (2)\machine-learning-ML.NET\Machine learning csharp\bin\Debug\net5.0\MLModel.zip
+E:\luang\Desktop\Nova pasta (2)\machine-learning-ML.NET\Machine learning csharp\bin\Debug\net5.0\Machine learning csharp.exe
+E:\luang\Desktop\Nova pasta (2)\machine-learning-ML.NET\Machine learning csharp\bin\Debug\net5.0\Machine learning csharp.deps.json
+E:\luang\Desktop\Nova pasta (2)\machine-learning-ML.NET\Machine learning csharp\bin\Debug\net5.0\Machine learning csharp.runtimeconfig.json
+E:\luang\Desktop\Nova pasta (2)\machine-learning-ML.NET\Machine learning csharp\bin\Debug\net5.0\Machine learning csharp.runtimeconfig.dev.json
+E:\luang\Desktop\Nova pasta (2)\machine-learning-ML.NET\Machine learning csharp\bin\Debug\net5.0\Machine learning csharp.dll
+E:\luang\Desktop\Nova pasta (2)\machine-learning-ML.NET\Machine learning csharp\bin\Debug\net5.0\ref\Machine learning csharp.dll
+E:\luang\Desktop\Nova pasta (2)\machine-learning-ML.NET\Machine learning csharp\bin\Debug\net5.0\Machine learning csharp.pdb
+E:\luang\Desktop\Nova pasta (2)\machine-learning-ML.NET\Machine learning csharp\bin\Debug\net5.0\Microsoft.ML.Core.dll
+E:\luang\Desktop\Nova pasta (2)\machine-learning-ML.NET\Machine learning csharp\bin\Debug\net5.0\Microsoft.ML.Data.dll
+E:\luang\Desktop\Nova pasta (2)\machine-learning-ML.NET\Machine learning csharp\bin\Debug\net5.0\Microsoft.ML.KMeansClustering.dll
+E:\luang\Desktop\Nova pasta (2)\machine-learning-ML.NET\Machine learning csharp\bin\Debug\net5.0\Microsoft.ML.PCA.dll
+E:\luang\Desktop\Nova pasta (2)\machine-learning-ML.NET\Machine learning csharp\bin\Debug\net5.0\Microsoft.ML.StandardTrainers.dll
+E:\luang\Desktop\Nova pasta (2)\machine-learning-ML.NET\Machine learning csharp\bin\Debug\net5.0\Microsoft.ML.Transforms.dll
+E:\luang\Desktop\Nova pasta (2)\machine-learning-ML.NET\Machine learning csharp\bin\Debug\net5.0\Microsoft.ML.CpuMath.dll
+E:\luang\Desktop\Nova pasta (2)\machine-learning-ML.NET\Machine learning csharp\bin\Debug\net5.0\Microsoft.ML.DataView.dll
+E:\luang\Desktop\Nova pasta (2)\machine-learning-ML.NET\Machine learning csharp\bin\Debug\net5.0\Microsoft.ML.FastTree.dll
+E:\luang\Desktop\Nova pasta (2)\machine-learning-ML.NET\Machine learning csharp\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\luang\Desktop\Nova pasta (2)\machine-learning-ML.NET\Machine learning csharp\bin\Debug\net5.0\System.CodeDom.dll
+E:\luang\Desktop\Nova pasta (2)\machine-learning-ML.NET\Machine learning csharp\bin\Debug\net5.0\runtimes\linux-x64\native\libLdaNative.so
+E:\luang\Desktop\Nova pasta (2)\machine-learning-ML.NET\Machine learning csharp\bin\Debug\net5.0\runtimes\osx-x64\native\libLdaNative.dylib
+E:\luang\Desktop\Nova pasta (2)\machine-learning-ML.NET\Machine learning csharp\bin\Debug\net5.0\runtimes\win-x64\native\LdaNative.dll
+E:\luang\Desktop\Nova pasta (2)\machine-learning-ML.NET\Machine learning csharp\bin\Debug\net5.0\runtimes\win-x86\native\LdaNative.dll
+E:\luang\Desktop\Nova pasta (2)\machine-learning-ML.NET\Machine learning csharp\bin\Debug\net5.0\runtimes\linux-x64\native\libFastTreeNative.so
+E:\luang\Desktop\Nova pasta (2)\machine-learning-ML.NET\Machine learning csharp\bin\Debug\net5.0\runtimes\osx-x64\native\libFastTreeNative.dylib
+E:\luang\Desktop\Nova pasta (2)\machine-learning-ML.NET\Machine learning csharp\bin\Debug\net5.0\runtimes\win-x64\native\FastTreeNative.dll
+E:\luang\Desktop\Nova pasta (2)\machine-learning-ML.NET\Machine learning csharp\bin\Debug\net5.0\runtimes\win-x86\native\FastTreeNative.dll
+E:\luang\Desktop\Nova pasta (2)\machine-learning-ML.NET\Machine learning csharp\bin\Debug\net5.0\Machine learning csharpML.Model.dll
+E:\luang\Desktop\Nova pasta (2)\machine-learning-ML.NET\Machine learning csharp\bin\Debug\net5.0\Machine learning csharpML.Model.pdb
+E:\luang\Desktop\Nova pasta (2)\machine-learning-ML.NET\Machine learning csharp\obj\Debug\net5.0\Machine learning csharp.csproj.AssemblyReference.cache
+E:\luang\Desktop\Nova pasta (2)\machine-learning-ML.NET\Machine learning csharp\obj\Debug\net5.0\Machine learning csharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\luang\Desktop\Nova pasta (2)\machine-learning-ML.NET\Machine learning csharp\obj\Debug\net5.0\Machine learning csharp.AssemblyInfoInputs.cache
+E:\luang\Desktop\Nova pasta (2)\machine-learning-ML.NET\Machine learning csharp\obj\Debug\net5.0\Machine learning csharp.AssemblyInfo.cs
+E:\luang\Desktop\Nova pasta (2)\machine-learning-ML.NET\Machine learning csharp\obj\Debug\net5.0\Machine learning csharp.csproj.CoreCompileInputs.cache
+E:\luang\Desktop\Nova pasta (2)\machine-learning-ML.NET\Machine learning csharp\obj\Debug\net5.0\Machine learning csharp.csproj.CopyComplete
+E:\luang\Desktop\Nova pasta (2)\machine-learning-ML.NET\Machine learning csharp\obj\Debug\net5.0\Machine learning csharp.dll
+E:\luang\Desktop\Nova pasta (2)\machine-learning-ML.NET\Machine learning csharp\obj\Debug\net5.0\ref\Machine learning csharp.dll
+E:\luang\Desktop\Nova pasta (2)\machine-learning-ML.NET\Machine learning csharp\obj\Debug\net5.0\Machine learning csharp.pdb
+E:\luang\Desktop\Nova pasta (2)\machine-learning-ML.NET\Machine learning csharp\obj\Debug\net5.0\Machine learning csharp.genruntimeconfig.cache

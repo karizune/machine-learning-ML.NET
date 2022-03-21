@@ -9,3 +9,14 @@ C:\Users\luanc\Desktop\Faculdade\Humberto\Machine Learning com ML.NET\machine-le
 C:\Users\luanc\Desktop\Faculdade\Humberto\Machine Learning com ML.NET\machine-learning-ML.NET\Machine learning csharpML.Model\obj\Debug\netstandard2.0\Machine learning csharpML.Model.csproj.CoreCompileInputs.cache
 C:\Users\luanc\Desktop\Faculdade\Humberto\Machine Learning com ML.NET\machine-learning-ML.NET\Machine learning csharpML.Model\obj\Debug\netstandard2.0\Machine learning csharpML.Model.dll
 C:\Users\luanc\Desktop\Faculdade\Humberto\Machine Learning com ML.NET\machine-learning-ML.NET\Machine learning csharpML.Model\obj\Debug\netstandard2.0\Machine learning csharpML.Model.pdb
+E:\luang\Desktop\Nova pasta (2)\machine-learning-ML.NET\Machine learning csharpML.Model\bin\Debug\netstandard2.0\MLModel.zip
+E:\luang\Desktop\Nova pasta (2)\machine-learning-ML.NET\Machine learning csharpML.Model\bin\Debug\netstandard2.0\Machine learning csharpML.Model.deps.json
+E:\luang\Desktop\Nova pasta (2)\machine-learning-ML.NET\Machine learning csharpML.Model\bin\Debug\netstandard2.0\Machine learning csharpML.Model.dll
+E:\luang\Desktop\Nova pasta (2)\machine-learning-ML.NET\Machine learning csharpML.Model\bin\Debug\netstandard2.0\Machine learning csharpML.Model.pdb
+E:\luang\Desktop\Nova pasta (2)\machine-learning-ML.NET\Machine learning csharpML.Model\obj\Debug\netstandard2.0\Machine learning csharpML.Model.csproj.AssemblyReference.cache
+E:\luang\Desktop\Nova pasta (2)\machine-learning-ML.NET\Machine learning csharpML.Model\obj\Debug\netstandard2.0\Machine learning csharpML.Model.GeneratedMSBuildEditorConfig.editorconfig
+E:\luang\Desktop\Nova pasta (2)\machine-learning-ML.NET\Machine learning csharpML.Model\obj\Debug\netstandard2.0\Machine learning csharpML.Model.AssemblyInfoInputs.cache
+E:\luang\Desktop\Nova pasta (2)\machine-learning-ML.NET\Machine learning csharpML.Model\obj\Debug\netstandard2.0\Machine learning csharpML.Model.AssemblyInfo.cs
+E:\luang\Desktop\Nova pasta (2)\machine-learning-ML.NET\Machine learning csharpML.Model\obj\Debug\netstandard2.0\Machine learning csharpML.Model.csproj.CoreCompileInputs.cache
+E:\luang\Desktop\Nova pasta (2)\machine-learning-ML.NET\Machine learning csharpML.Model\obj\Debug\netstandard2.0\Machine learning csharpML.Model.dll
+E:\luang\Desktop\Nova pasta (2)\machine-learning-ML.NET\Machine learning csharpML.Model\obj\Debug\netstandard2.0\Machine learning csharpML.Model.pdb
